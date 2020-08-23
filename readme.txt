@@ -1,4 +1,4 @@
-m:modified by feature1 &
+m:modified by feature1 and
 modified by localhost
 git is a freesoftware
 1--dev
